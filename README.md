@@ -4,3 +4,4 @@ Java (Maven) application for tracking time on the job
 Time tracker
 
 Good Night Students!!!
+adding new line to test PollSCM in Jenkins job
